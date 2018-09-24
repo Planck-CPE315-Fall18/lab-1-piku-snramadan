@@ -17,3 +17,10 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+Saba Ramadan
+Complete
+gcc -o piku piku.s
+./piku
+Mostly had issues with Github.
+
+
